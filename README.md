@@ -1,7 +1,6 @@
 # wedding-web-apps
 
 Develope by :
-Panji Ramadhan
-Bagas Tri Wibowo
+Panji Ramadhan and Bagas Tri Wibowo
 
 copyright 2021
