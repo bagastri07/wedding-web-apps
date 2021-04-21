@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const env = require('env')
 
-const port = process.env.PORT | 3000;
+const port = process.env.PORT || 3000;
 
 app.set('view engine', 'ejs');
 app.use(express.static('Assets'))
