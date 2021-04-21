@@ -1,0 +1,24 @@
+{
+  "name": "wedding-web-apps",
+  "version": "1.0.0",
+  "description": "Develope by :\r Panji Ramadhan and Bagas Tri Wibowo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bagastri07/wedding-web-apps.git"
+  },
+  "author": "Bagas Tri Wibowo & Panji Ramadhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bagastri07/wedding-web-apps/issues"
+  },
+  "homepage": "https://github.com/bagastri07/wedding-web-apps#readme",
+  "dependencies": {
+    "cryptr": "^6.0.2",
+    "express": "^4.17.1"
+  }
+}
