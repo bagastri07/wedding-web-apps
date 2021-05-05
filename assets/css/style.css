@@ -48,7 +48,7 @@
   font-family: 'josefin';
 }
 .jumbotron{
-    background-image: url("/img/jumbotron.JPG");
+    background-image: url("/img/jumbotron.png");
     
     background-size: cover;
     height: 700px;
