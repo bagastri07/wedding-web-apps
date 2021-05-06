@@ -8,6 +8,10 @@
   src: url(/font/JosefinSans-Regular.ttf);;
 }
 
+.display4{
+  margin-top: 180px;
+}
+
 .footer p{
   font-family: 'josefin';
 }
@@ -51,7 +55,7 @@
     background-image: url("/img/jumbotron.png");
     
     background-size: cover;
-    height: 700px;
+    height: 640px;
     text-align : center;
 }
 
@@ -63,7 +67,7 @@
 .jumbotron .title{
     color: white;
     font-family:'Pacifico';
-    font-size: 60px;
+    font-size: px;
    
 }
 
